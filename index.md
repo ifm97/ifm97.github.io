@@ -1,6 +1,6 @@
 ---
 ---
-&#8291;1.
+&#8291;
 # Introduction to Formal Methods (2018)
 
 ## Staff
@@ -11,17 +11,15 @@
 
 |  Week 1 |
 |: ------------- |:-------------| -----:|
-| Sunday  1 Mehr  (September 23)   | Lecture 1: Course Overview | [slides](https://ifm97.github.io/lectures/ifm-lect1.pdf) |
-| Tuesday 3 Mehr   (September 25)    | Lecture 2: Boolean Satisfiability (SAT) Solving | slides |
-
+| Sunday  1 Mehr  (Sep. 23)   | Lecture 1: Course Overview | [slides](https://ifm97.github.io/lectures/ifm-lect1.pdf) |
+| Tuesday 3 Mehr   (Sep. 25)    | Lecture 2: Boolean Satisfiability (SAT) Solving | slides |
 |  Week 2 |
 |: ------------- |:-------------| -----:|
-| Sunday  8 Mehr  (September 30)   | Lecture 3: ---- | slides |
-| Tuesday 10 Mehr   (October 2)   | Lecture 4:  | slides |
-
+| Sunday  8 Mehr  (Sep. 30)   | Lecture 3: ---- | slides |
+| Tuesday 10 Mehr   (Oct. 2)   | Lecture 4:  | slides |
 |  Week 3 |
 |: ------------- |:-------------| -----:|
-| Sunday  15 Mehr  (October 7)   | Lecture 5: From Programs to Formulas | slides |
+| Sunday  15 Mehr  (Oct. 7)   | Lecture 5: From Programs to Formulas | slides |
 
 
 
