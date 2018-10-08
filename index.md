@@ -39,6 +39,8 @@ increasingly dedicated to:
    of staff as well as analysis systems adapted to low resources settings.
 
 
+## The Header
+
 <br> As of 19th September 2018, RECON is a *not-for-profit*, *incorporated
 association* regulated by the French law, in accordance to the association law of
 1st July 1901 and the decree of the 16th August 1901. For more information about

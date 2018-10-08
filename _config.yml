@@ -23,7 +23,7 @@ description: Webpage for the IFM 2018 course at University of Tehran
 
 # List of links in the navigation bar
 navbar-links:
-  Staff: "Introduction"
+  Staff: "index(#the-header)"
   Schedule: "Schedule"
   Assignments: "Assignments"
 
