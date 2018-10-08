@@ -25,5 +25,5 @@
 
 ### Assignments
 
-- SAT Solver - due date Mehr 13th (October 5)
+- [SAT Solver](https://ifm97.github.io/assignments/SAT-solver.pdf) - due date Mehr 13th (October 5)
 
