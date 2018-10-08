@@ -1,11 +1,14 @@
 ---
 ---
+.
 
-### Staff
+# Introduction to Formal Methods (2018)
+
+## Staff
   - Hossein Hojjat  (office 2-615) hojjat at sign cornell dot edu
   - Fetemeh Ghassemi (office 2-611) fghassemi at sign ut dot ac dot ir
 
-### Schedule
+## Schedule
 
 |  Week 1 |
 |: ------------- |:-------------| -----:|
