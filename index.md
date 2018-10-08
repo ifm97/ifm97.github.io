@@ -1,48 +1,31 @@
 ---
 ---
 
-The **R** **E**pidemics **Con**sortium (RECON) is international
-not-for-profit, **non-governmental organisation** gathering experts in data
-science, modelling methodology, public health, and software development to
-create the next generation of analytics tools for informing the response
-to *disease outbreaks*, *health emergencies* and *humanitarian crises*, 
-using the [R software](https://www.r-project.org/) and other free, 
-open-source resources.
+# Introduction to Formal Methods (2018)
 
-This includes packages specifically designed for handling, visualising, and
-analysing outbreak data using cutting-edge statistical methods, as well as more
-general-purpose tools for data cleaning, versioning, and encryption, and system
-infrastructure.
+## Staff
+  - Hossein Hojjat  (office 2-615) hojjat@cornell.edu
+  - Fetemeh Ghassemi (office 2-611) fghassemi@ece.ut.ac.ir
 
-Our packages must fulfil three key aspects:
+## Schedule
 
-- *Efficiency*: our tools can be used in real time to improve situation
-  awareness and inform intervention strategies.
+|  Week 1 <td colspan=3> |
+|: ------------- |:-------------| -----:|
+| Sunday  1 Mehr  (September 23)   | Lecture 1: Course Overview | [slides](https://ifm97.github.io/lectures/ifm-lect1.pdf) |
+| Tuesday 3 Mehr   (September 25)    | Lecture 2: Boolean Satisability (SAT) Solving | slides |
 
-- *Reliability*: our tools are thoroughly and constantly tested using
-  professional software development methods.
+|  Week 2 <td colspan=3> |
+|: ------------- |:-------------| -----:|
+|Sunday  8 Mehr  (September 30)   | Lecture 3: Course Overview | slides |
+| Tuesday 10 Mehr   (October 2)   | Lecture 4: Boolean Satisability (SAT) Solving | slides |
 
-- *Accessibility*: our tools are free, open-source, and available on virtually
-  any platform; they can be used with different levels of expertise, and provide
-  graphical user interfaces implementing the most important functionalities.
-
-Besides its active involvement in the creation of tools, RECON is also
-increasingly dedicated to:
-
-- *disseminating knowledge*: RECON is developing a new training platform, and a
-   series of workshops and short courses on epidemics analysis and outbreak
-   response. Our [public forum ](/forum) is also dedicated to sharing exptertise
-   on these topics.
-
-- *outbreak response deployment*: RECON supports the deployment of data analysts
-   to the field as part of outbreak response teams; this includes the deployment
-   of staff as well as analysis systems adapted to low resources settings.
+|  Week 3 <td colspan=3> |
+|: ------------- |:-------------| -----:|
+|Sunday  15 Mehr  (October 7)   | Lecture 5: From Programs to Formulas | slides |
 
 
-## The Header
 
-<br> As of 19th September 2018, RECON is a *not-for-profit*, *incorporated
-association* regulated by the French law, in accordance to the association law of
-1st July 1901 and the decree of the 16th August 1901. For more information about
-the remit of RECON, check our [official statutes](documents/statutes_en_1.1.pdf).
+## Assignments
+
+- SAT Solver - due date Mehr 13th (October 5)
 
