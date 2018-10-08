@@ -1,7 +1,6 @@
 ---
 ---
-.
-
+&#8291;1.
 # Introduction to Formal Methods (2018)
 
 ## Staff
