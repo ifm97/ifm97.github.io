@@ -20,6 +20,7 @@
 |  **Week 3** |
 |: ------------- |:-------------| -----:|
 | Sunday  15 Mehr  (Oct. 7)   | Lecture 5: From Programs to Formulas | [slides](https://ifm97.github.io/lectures/ifm-lect5.pdf) |
+| Tuesday 15 Mehr  (Oct. 9)   | Lecture 6: Hoare Logic | [slides](https://ifm97.github.io/lectures/ifm-lect6.pdf) |
 
 
 
