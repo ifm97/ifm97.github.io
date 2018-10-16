@@ -24,7 +24,7 @@
 |  **Week 4** |
 |: ------------- |:-------------| -----:|
 | Sunday  22 Mehr  (Oct. 14)   | Lecture 7: Hoare Logic Rules | [slides](https://ifm97.github.io/lectures/ifm-lect7.pdf) |
-| Tuesday  24 Mehr  (Oct. 16)   | Lecture 8: Propagating Preconditions and Postconditions | [slides](https://ifm97.github.io/lectures/ifm-lect8.pdf) |
+| Tuesday 24 Mehr  (Oct. 16)   | Lecture 8: Propagating Preconditions and Postconditions | [slides](https://ifm97.github.io/lectures/ifm-lect8.pdf) |
 
 
 ### Assignments
