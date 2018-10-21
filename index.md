@@ -25,9 +25,11 @@
 |: --------------- |:-------------| -----:|
 | Sunday  22 Mehr  (Oct. 14)   | Lecture 7: Hoare Logic Rules | [slides](https://ifm97.github.io/lectures/ifm-lect7.pdf) |
 | Tuesday 24 Mehr  (Oct. 16)   | Lecture 8: Propagating Preconditions and Postconditions | [slides](https://ifm97.github.io/lectures/ifm-lect8.pdf) |
-
+|  **Week 5** |
+|: --------------- |:-------------| -----:|
+| Sunday  29 Mehr  (Oct. 21)   | Lecture 9: Verification by Solving Horn Clauses | [slides](https://ifm97.github.io/lectures/ifm-lect9.pdf) |
 
 ### Assignments
 
 - [SAT Solver](https://ifm97.github.io/assignments/SAT-solver.pdf) - due date Mehr 13th (October 5)
-
+- [Automatic Program Verifier](https://ifm97.github.io/assignments/Verifier.pdf) - due date Aban 11th (November 2)
