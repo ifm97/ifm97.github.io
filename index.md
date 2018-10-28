@@ -29,6 +29,9 @@
 |: --------------- |:-------------| -----:|
 | Sunday  29 Mehr  (Oct. 21)   | Lecture 9: Verification by Solving Horn Clauses | [slides](https://ifm97.github.io/lectures/ifm-lect9.pdf) |
 | Tuesday  1 Aban  (Oct. 23)   | Lecture 10: Verifying Programs with Arrays & Dynamic Allocation | [slides](https://ifm97.github.io/lectures/ifm-lect10.pdf) |
+|  **Week 6** |
+|: --------------- |:-------------| -----:|
+| Sunday  6 Aban  (Oct. 28)   | Lecture 11: Hoare Logic for Concurrent Programs | [slides](https://ifm97.github.io/lectures/ifm-lect11.pdf) |
 
 ### Assignments
 
