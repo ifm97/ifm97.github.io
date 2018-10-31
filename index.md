@@ -32,6 +32,7 @@
 |  **Week 6** |
 |: --------------- |:-------------| -----:|
 | Sunday  6 Aban  (Oct. 28)   | Lecture 11: Hoare Logic for Concurrent Programs | [slides](https://ifm97.github.io/lectures/ifm-lect11.pdf) |
+| Tuesday 8 Aban  (Oct. 30)   | No class |  |
 
 ### Assignments
 
