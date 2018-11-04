@@ -33,6 +33,9 @@
 |: --------------- |:-------------| -----:|
 | Sunday  6 Aban  (Oct. 28)   | Lecture 11: Hoare Logic for Concurrent Programs | [slides](https://ifm97.github.io/lectures/ifm-lect11.pdf) |
 | Tuesday 8 Aban  (Oct. 30)   | No class |  |
+|  **Week 7** |
+|: --------------- |:-------------| -----:|
+| Sunday  13 Aban  (Nov. 4)   | Lecture 12: Symbolic and Concolic Execution | [slides](https://ifm97.github.io/lectures/ifm-lect12.pdf) |
 
 ### Assignments
 
