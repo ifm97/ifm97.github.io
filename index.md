@@ -41,4 +41,4 @@
 
 - [SAT Solver](https://ifm97.github.io/assignments/SAT-solver.pdf) - due date Mehr 13th (October 5)
 - [Automatic Program Verifier](https://ifm97.github.io/assignments/Verifier.pdf) - due date Aban 11th (November 2)
-- [Concolic Execution](https://ifm97.github.io/assignments/Concolic.pdf) [bestteam.exe](https://ifm97.github.io/assignments/bestteam.exe) - due date Aban 30th (November 21)
+- [Concolic Execution](https://ifm97.github.io/assignments/Concolic.pdf) ([bestteam.exe](https://ifm97.github.io/assignments/bestteam.exe)) - due date Aban 30th (November 21)
