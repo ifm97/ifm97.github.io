@@ -36,6 +36,7 @@
 |  **Week 7** |
 |: --------------- |:-------------| -----:|
 | Sunday  13 Aban  (Nov. 4)   | Lecture 12: Symbolic and Concolic Execution | [slides](https://ifm97.github.io/lectures/ifm-lect12.pdf) |
+| Tuesday 15 Aban  (Nov. 6)   | Lecture 13: Introduction to Model Checking | [slides](https://ifm97.github.io/lectures/ifm-lect13.pdf) |
 
 ### Assignments
 
