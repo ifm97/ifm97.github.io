@@ -37,7 +37,9 @@
 |: --------------- |:-------------| -----:|
 | Sunday  13 Aban  (Nov. 4)   | Lecture 12: Symbolic and Concolic Execution | [slides](https://ifm97.github.io/lectures/ifm-lect12.pdf) |
 | Tuesday 15 Aban  (Nov. 6)   | Lecture 13: Introduction to Model Checking | [slides](https://ifm97.github.io/lectures/ifm-lect13.pdf) |
-
+|  **Week 8** |
+|: --------------- |:-------------| -----:|
+| Sunday  20 Aban  (Nov. 11)   | Lecture 14: Modeling Hardware/Software Systems |[slides](https://ifm97.github.io/lectures/ifm-lect14.pdf) |
 ### Assignments
 
 - [SAT Solver](https://ifm97.github.io/assignments/SAT-solver.pdf) - due date Mehr 13th (October 5)
