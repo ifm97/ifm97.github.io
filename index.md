@@ -40,7 +40,9 @@
 |  **Week 8** |
 |: --------------- |:-------------| -----:|
 | Sunday  20 Aban  (Nov. 11)   | Lecture 14: Modeling Hardware/Software Systems |[slides](https://ifm97.github.io/lectures/ifm-lect14.pdf) |
-|: --------------- |:-------------| -----:|
+
+
+
 ### Assignments
 
 - [SAT Solver](https://ifm97.github.io/assignments/SAT-solver.pdf) - due date Mehr 13th (October 5)
