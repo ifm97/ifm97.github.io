@@ -40,7 +40,7 @@
 |  **Week 8** |
 |: --------------- |:-------------| -----:|
 | Sunday  20 Aban  (Nov. 11)   | Lecture 14: Modeling Hardware/Software Systems |[slides](https://ifm97.github.io/lectures/ifm-lect14.pdf) |
-
+| Tuesday  22 Aban  (Nov. 13)   | Lecture 15: Modeling Parallel and Communicating Systems (Part 1) |[slides](https://ifm97.github.io/lectures/ifm-lect15.pdf) |
 
 
 ### Assignments
