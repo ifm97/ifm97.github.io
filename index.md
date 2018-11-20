@@ -44,6 +44,7 @@
 |  **Week 9** |
 |: --------------- |:-------------| -----:|
 | Sunday  27 Aban  (Nov. 17)   | Lecture 16: Modeling Parallel and Communicating Systems (Part 2) |[slides](https://ifm97.github.io/lectures/ifm-lect16.pdf) |
+| Tuesday  29 Aban  (Nov. 19)   | Lecture 17: Modeling Checking with Spin |[slides](https://ifm97.github.io/lectures/ifm-lect17.pdf) |
 
 
 ### Assignments
