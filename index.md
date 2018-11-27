@@ -48,8 +48,7 @@
 |  **Week 10** |
 |: --------------- |:-------------| -----:|
 | Sunday  4 Azar  (Nov. 25)   | No class |  |
-| Tuesday  6 Azar  (Nov. 27)   | Lecture 18: Linear Time Properties 
-| [slides](https://ifm97.github.io/lectures/ifm-lect18.pdf) |
+| Tuesday  6 Azar  (Nov. 27)   | Lecture 18: Linear Time Properties | [slides](https://ifm97.github.io/lectures/ifm-lect18.pdf) |
 |  **Week 11** |
 
 
