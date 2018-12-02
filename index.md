@@ -50,6 +50,9 @@
 | Sunday  4 Azar  (Nov. 25)   | No class |  |
 | Tuesday  6 Azar  (Nov. 27)   | Lecture 18: Linear Time Properties | [slides](https://ifm97.github.io/lectures/ifm-lect18.pdf) |
 |  **Week 11** |
+|: --------------- |:-------------| -----:|
+| Sunday  11 Azar  (Dec. 2)   | Lecture 19: Safety Properties |[slides](https://ifm97.github.io/lectures/ifm-lect19.pdf) |
+
 
 
 ### Assignments
@@ -57,3 +60,7 @@
 - [SAT Solver](https://ifm97.github.io/assignments/SAT-solver.pdf) - due date Mehr 13th (October 5)
 - [Automatic Program Verifier](https://ifm97.github.io/assignments/Verifier.pdf) - due date Aban 11th (November 2)
 - [Concolic Execution](https://ifm97.github.io/assignments/Concolic.pdf) ([bestteam.exe](https://ifm97.github.io/assignments/bestteam.exe)) - due date Aban 30th (November 21)
+
+### Homework
+- [HW 1](https://ifm97.github.io/assignments/HW1.pdf) - due date Azar 25th (Dec. 16)
+
