@@ -52,6 +52,8 @@
 |  **Week 11** |
 |: --------------- |:-------------| -----:|
 | Sunday  11 Azar  (Dec. 2)   | Lecture 19: Safety Properties |[slides](https://ifm97.github.io/lectures/ifm-lect19.pdf) |
+| Tuesday  13 Azar  (Dec. 4)   | Lecture 20: Liveness Properties and Fairness |[slides](https://ifm97.github.io/lectures/ifm-lect20.pdf)  |  
+|  **Week 12** |
 
 
 
