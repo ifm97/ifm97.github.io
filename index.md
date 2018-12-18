@@ -55,6 +55,9 @@
 | Sunday  11 Azar  (Dec. 2)   | Lecture 19: Safety Properties |[slides](https://ifm97.github.io/lectures/ifm-lect19.pdf) |
 | Tuesday  13 Azar  (Dec. 4)   | Lecture 20: Liveness Properties and Fairness |[slides](https://ifm97.github.io/lectures/ifm-lect20.pdf)  |  
 |  **Week 12** |
+|: --------------- |:-------------| -----:|
+| Sunday  18 Azar  (Dec. 9)   | Lecture 21: Regular Safety Properties |[slides](https://cecm.ut.ac.ir/mod/resource/view.php?id=77916) (on CECM)|
+| Tuesday  20 Azar  (Dec. 11)   | Lecture 22: ω-Regular Properties |[slides](https://cecm.ut.ac.ir/mod/resource/view.php?id=77917) (on CECM) |  
 
 
 
