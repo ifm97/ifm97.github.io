@@ -73,4 +73,4 @@
 
 ### Homework
 - [HW 1](https://ifm97.github.io/assignments/HW1.pdf) - due date Azar 25th (Dec. 16)
-
+- HW 2 - Solve problems 4.6, 4.12, 4.19, 5.2, and 5.13 of PMC - due date Dey 9 (Dec. 30)
