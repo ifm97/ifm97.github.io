@@ -56,11 +56,11 @@
 | Tuesday  13 Azar  (Dec. 4)   | Lecture 20: Liveness Properties and Fairness |[slides](https://ifm97.github.io/lectures/ifm-lect20.pdf)  |  
 |  **Week 12** |
 |: --------------- |:-------------| :-----:|
-| Sunday  18 Azar  (Dec. 9)   | Lecture 21: Regular Safety Properties |[slides](https://cecm.ut.ac.ir/mod/resource/view.php?id=77916)<br/> (on&nbsp;CECM)|
-| Tuesday  20 Azar  (Dec. 11)   | Lecture 22: ω-Regular Properties |[slides](https://cecm.ut.ac.ir/mod/resource/view.php?id=77917)<br/> (on&nbsp;CECM) |  
+| Sunday  18 Azar  (Dec. 9)   | Lecture 21: Regular Safety Properties |[slides (1)](https://cecm.ut.ac.ir/mod/resource/view.php?id=77916)<br/> (on&nbsp;CECM)|
+| Tuesday  20 Azar  (Dec. 11)   | Lecture 22: Model Checking ω-Regular Properties |[slides (2)](https://cecm.ut.ac.ir/mod/resource/view.php?id=77917)<br/>[slides](https://cecm.ut.ac.ir/mod/resource/view.php?id=77919)<br/>(on&nbsp;CECM) |  
 |  **Week 13** |
 |: --------------- |:-------------| :-----:|
-| Sunday  25 Azar  (Dec. 16)   | Lecture 23: Model Checking with Büchi Automata |[slides](https://cecm.ut.ac.ir/mod/resource/view.php?id=77919)<br/> (on&nbsp;CECM)|
+| Sunday  25 Azar  (Dec. 16)   | Lecture 23: Linear Temporal Logic (LTL) | [slides (1)](https://cecm.ut.ac.ir/mod/resource/view.php?id=77918)<br/>[slides (2)](https://cecm.ut.ac.ir/mod/resource/view.php?id=77914)<br/>(on&nbsp;CECM)|
 
 
 
