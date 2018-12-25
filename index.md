@@ -61,7 +61,9 @@
 |  **Week 13** |
 |: --------------- |:-------------| :-----:|
 | Sunday  25 Azar  (Dec. 16)   | Lecture 23: Linear Temporal Logic (LTL) | [slides (1)](https://cecm.ut.ac.ir/mod/resource/view.php?id=77918)<br/>[slides (2)](https://cecm.ut.ac.ir/mod/resource/view.php?id=77914)<br/>(on&nbsp;CECM)|
-
+| Tuesday 27 Azar (Dec. 18)   | Lecture 24: Modeling and Analysis using Rebeca | [slides](https://drive.google.com/file/d/1NUfUofrsVgEZlpfMqj9tXIwETahC-z94/view) |
+| **Week 14** |
+| Sunday 2 Dey (Dec. 23)    | Lecture 25: The Palang Language |
 
 
 ### Assignments
