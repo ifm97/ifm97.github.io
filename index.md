@@ -64,6 +64,7 @@
 | Tuesday 27 Azar (Dec. 18)   | Lecture 24: Modeling and Analysis using Rebeca | [slides](https://drive.google.com/file/d/1NUfUofrsVgEZlpfMqj9tXIwETahC-z94/view) |
 | **Week 14** |
 | Sunday 2 Dey (Dec. 23)    | Lecture 25: The Palang Language |
+| Tuesday 4 Dey (Dec. 25)   | Lecture 26: Software Model Checking | [slides](https://ifm97.github.io/lectures/ifm-lect26.pdf)  |
 
 
 ### Assignments
