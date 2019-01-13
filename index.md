@@ -65,6 +65,10 @@
 | **Week 14** |
 | Sunday 2 Dey (Dec. 23)    | Lecture 25: The Palang Language | [handouts](https://ifm97.github.io/lectures/palang-1.0.pdf)
 | Tuesday 4 Dey (Dec. 25)   | Lecture 26: Software Model Checking | [slides](https://ifm97.github.io/lectures/ifm-lect26.pdf)  |
+| **Week 15** |
+| Sunday 9 Dey (Dec. 30)    | Lecture 27:  | 
+| Tuesday 11 Dey (Jan. 1)   | Lecture 28: Introduction to Model-Based Testing | [slides](https://ifm97.github.io/lectures/MBT.pdf)  |
+
 
 
 ### Assignments
